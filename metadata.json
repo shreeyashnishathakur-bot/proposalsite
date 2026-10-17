@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Proposal",
+  "description": "An interactive, playful romantic proposal experience with floating hearts, glassmorphism design, runaway NO button, and full-screen celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
